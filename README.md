@@ -1,0 +1,2 @@
+# servidor
+para jugar
